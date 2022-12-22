@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Lokesh</name>
-	      <url>http://172.16.5.17:8081/repository/maven-releases/</url>
+	      <url>http://172.16.5.17:8081/repository/test-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Lokesh</name>
-	      <url>http://172.16.5.17:8081/repository/maven-snapshots/</url>
+	      <url>http://172.16.5.17:8081/repository/test-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
